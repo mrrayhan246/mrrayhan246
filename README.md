@@ -22,6 +22,11 @@
 
 - ⚡ Fun fact: I always love coding and creating creative websites
 
+<p dir="auto"></p>
+<div class="markdown-heading" dir="auto">
+    <h2>💻 Technologies that I know </h2>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mrrayhan246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrrayhan246" height="30" width="40" /></a>
