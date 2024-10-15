@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/mrrayhan246" target="blank"><img src="https://img.shields.io/twitter/follow/mrrayhan246?logo=twitter&style=for-the-badge" alt="mrrayhan246" /></a> </p>
 
-- 🔭 I’m currently working on [FORIT BD](https://foritbd.com/)
+- 👨‍💼 Md Raihanul Islam Rayhan 
 
 - 📫 How to reach me **mrrayhan246@gmail.com**
 
