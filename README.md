@@ -11,7 +11,7 @@
 <h1 align="center">👩‍💻 About Me</h1>
 <h3 align="center">A passionate frontend and backend developer from Bangladesh</h3>
 
-<img align="right" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="codding" />
+<img align="right" style="max-width: 100%;" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="codding" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrrayhan246&label=Profile%20views&color=0e75b6&style=flat" alt="mrrayhan246" /> </p>
