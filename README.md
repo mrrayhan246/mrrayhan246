@@ -12,7 +12,11 @@
 
 <p align="left"> <a href="https://twitter.com/mrrayhan246" target="blank"><img src="https://img.shields.io/twitter/follow/mrrayhan246?logo=twitter&style=for-the-badge" alt="mrrayhan246" /></a> </p>
 
-- 👨‍💼 Md Raihanul Islam Rayhan 
+- 👨‍💼 Md Raihanul Islam Rayhan
+  
+- 🌍 Rangpur, Bangladesh
+
+- 👨‍💻 Full-stack Developer
 
 - 📫 How to reach me **mrrayhan246@gmail.com**
 
