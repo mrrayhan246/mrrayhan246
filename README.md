@@ -2,7 +2,9 @@
 
 
 <div align="center" dir="auto">
-    <h2>💻 Technologies that I know </h2>
+    <a href="https://twitter.com/mrrayhan246" target="blank">
+    <img align="center" src="https://camo.githubusercontent.com/17b4032d58481ee532cb75aea5e90d5cdc0d595181b33eeda71be514c66929ef/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d4c696e6b6564496e266c6f676f3d6c696e6b6564696e266c6162656c3d26636f6c6f723d303037374235266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" alt="mrrayhan246" height="30" width="40" /></a>
+
 </div>
 
 
