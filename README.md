@@ -18,7 +18,7 @@
 
 <div align="center" dir="auto">
     <a href="https://camo.githubusercontent.com/bf4711997dd63570fa482f578f68fa4ff83183664239bbe423188c3aacb600d5/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d6e616a6174756c362e6e616a6174756c362672696768745f636f6c6f723d6461726b726564" target="blank">
-        <img align="center" src="https://camo.githubusercontent.com/bf4711997dd63570fa482f578f68fa4ff83183664239bbe423188c3aacb600d5/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d6e616a6174756c362e6e616a6174756c362672696768745f636f6c6f723d6461726b726564" alt="mrrayhan246" height="30" style="max-width: 100%;"/>
+        <img src="https://komarev.com/ghpvc/?username=mrrayhan246&label=Profile%20views&color=0e75b6&style=flat" alt="mrrayhan246" />
     </a>
 </div>
 
@@ -29,7 +29,7 @@
 <img align="right" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="codding" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrrayhan246&label=Profile%20views&color=0e75b6&style=flat" alt="mrrayhan246" /> </p>
+<p align="left">  </p>
 
 <p align="left"> <a href="https://twitter.com/mrrayhan246" target="blank"><img src="https://img.shields.io/twitter/follow/mrrayhan246?logo=twitter&style=for-the-badge" alt="mrrayhan246" /></a> </p>
 
