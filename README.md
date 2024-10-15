@@ -16,7 +16,7 @@
     </a>
 </div>
 
-<div align="center" dir="auto" style="margin-top:20px">
+<div align="center" dir="auto" style="margin-top: 20px;">
     <a href="https://camo.githubusercontent.com/bf4711997dd63570fa482f578f68fa4ff83183664239bbe423188c3aacb600d5/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d6e616a6174756c362e6e616a6174756c362672696768745f636f6c6f723d6461726b726564" target="blank">
         <img style="height: 30px; max-width: 100%;" src="https://komarev.com/ghpvc/?username=mrrayhan246&label=Profile%20views&color=0e75b6&style=flat" alt="mrrayhan246" />
     </a>
