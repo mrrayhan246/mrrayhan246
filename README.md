@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact: I always love coding and creating creative websites
 
-<p dir="auto"></p>
+<p dir="auto"></p><p dir="auto"></p><p dir="auto"></p>
 <div class="markdown-heading" dir="auto">
     <h2>💻 Technologies that I know </h2>
 </div>
