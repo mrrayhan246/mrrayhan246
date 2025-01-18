@@ -1,8 +1,8 @@
 <img src="images/bg/CoverImage.jpg" alt="GitHub Banner" width="100%" />
 
-<h1>
-  <span>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D2D3&width=435&lines=🌍+Hello+World!+I'm+Md.+Raihanul+Islam;A+Professional+Web+Developer+%F0%9F%9A%80;Crafting+Exceptional+Web+Experiences" alt="Typing Animation" />
+<h1 width="100%" align"center">
+  <span width="100%">
+    <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D2D3&width=435&lines=🌍+Hello+World!+I'm+Md.+Raihanul+Islam;A+Professional+Web+Developer+%F0%9F%9A%80;Crafting+Exceptional+Web+Experiences" alt="Typing Animation" />
   </span>
 </h1>
 
