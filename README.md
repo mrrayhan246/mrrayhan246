@@ -1,6 +1,6 @@
 # 👋 Hello, I'm [Your Name]
 
-![Profile Banner](https://your-banner-image-url.com)
+![Profile Banner](https://github.com/mrrayhan246/mrrayhan246/blob/main/images/bg/CoverImage.jpg)
 
 🚀 Full Stack Developer | 🎨 Designer | 🌍 Open Source Enthusiast
 
