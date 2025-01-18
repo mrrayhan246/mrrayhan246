@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mrrayhan246" target="blank"><img src="https://img.shields.io/twitter/follow/mrrayhan246?logo=twitter&style=for-the-badge" alt="mrrayhan246" /></a> </p>
 
-- 🔭 I’m currently working on [FOR IT BD](www.foritbd.com)
+- 🔭 I’m currently working on [FOR IT BD](https://foritbd.com/)
 
 - 👨‍💻 All of my projects are available at [rayhan246.com](rayhan246.com)
 
