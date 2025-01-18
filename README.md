@@ -1,9 +1,15 @@
 <img src="images/bg/CoverImage.jpg" alt="GitHub Banner" width="100%" />
 
-# 🌍 Hello World! I'm Md. Raihanul Islam 👋🏼  
+<h1 align="center">
+  <span>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D2D3&width=435&lines=🌍+Hello+World!+I'm+Md.+Raihanul+Islam;A+Professional+Web+Developer+%F0%9F%9A%80;Crafting+Exceptional+Web+Experiences" alt="Typing Animation" />
+  </span>
+</h1>
+
+---
 
 ### A Professional Web Developer 🚀  
-- 🛜 **Currently working on**: [My Webpage](https://foritbd.com/)  
+- 🛜 **Currently working on**: [Webpage](https://foritbd.com/)  
 - 🌍 **Location**: Rangpur, Bangladesh  
 - 👨‍💻 **Role**: Full-stack Developer  
 - 🌱 **Learning**: Python  
@@ -32,14 +38,33 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap_5-7952B3?logo=bootstrap&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=fff)
+![Vultr](https://img.shields.io/badge/-Vultr-007BFC?logo=vultr&logoColor=fff)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=fff)
 
 ---
+
+### 🐍 GitHub Activity Snake:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
+---
+
+### 🌟 Dynamic Animations
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="coding animation" width="300" />
+</div>
+
+---
+
+### 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" height="150" />
+</div>
 
 ---
 
