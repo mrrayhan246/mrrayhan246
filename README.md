@@ -1,6 +1,6 @@
 <img src="images/bg/CoverImage.jpg" alt="GitHub Banner" width="100%" />
 
-<h1 align="center">
+<h1>
   <span>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D2D3&width=435&lines=🌍+Hello+World!+I'm+Md.+Raihanul+Islam;A+Professional+Web+Developer+%F0%9F%9A%80;Crafting+Exceptional+Web+Experiences" alt="Typing Animation" />
   </span>
@@ -50,13 +50,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
----
-
-### 🌟 Dynamic Animations
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="coding animation" width="300" />
-</div>
 
 ---
 
