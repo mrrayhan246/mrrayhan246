@@ -54,8 +54,8 @@
 
 # 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrrayhan246&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrrayhan246&theme=radical&hide_border=false" alt="GitHub Streak" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mrrayhan246&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" height="165px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrrayhan246&theme=radical&hide_border=false" alt="GitHub Streak" width="45%" height="165px"/>
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrayhan246&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%"/>
 </div>
