@@ -54,18 +54,17 @@
 
 # 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrrayhan246&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="70%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mrrayhan246&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrrayhan246&theme=radical&hide_border=false" alt="GitHub Streak" width="50%"/>
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrrayhan246&theme=radical&hide_border=false" alt="GitHub Streak" width="70%"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrayhan246&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="70%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrayhan246&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%"/>
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrrayhan246&theme=radical&no-frame=false&no-bg=true&margin-w=15&column=6" alt="GitHub Trophies" width="90%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mrrayhan246&theme=radical&no-frame=false&no-bg=true&margin-w=15&column=6" alt="GitHub Trophies" width="100%"/>
 </div>
 
 ---
