@@ -78,25 +78,12 @@
 ---
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=mrrayhan246&icon=0&color=6" alt="Profile Views"/>
-  </a>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=mrrayhan246.mrrayhan246" alt="Visitor Count"/>
 </div>
 
 ---
 
-<div align="center">
-  <em>🚀 Proudly created with <a href="https://gprm.itsvg.in">GPRM</a> 🌟</em>
-</div>
 
-
-### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</div>
-
----
 
 ### 💡 Let's Create Something Amazing Together!
 
