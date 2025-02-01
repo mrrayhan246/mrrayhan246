@@ -75,6 +75,38 @@
 
 ---
 
+&nbsp;
+&nbsp;
+
+<!-- Stats & top language uses  -->
+
+<h2 align="center">🚀 Current Github Status:</h2>
+
+<table align="center" style="background-color:#124453"><tr><td valign="top" width="50%">
+
+<h2 align="center"> 📊 Stats: </h2>
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrrayhan246&theme=slateorange)
+
+</div>
+
+</td>
+<td valign="top" width="50%">
+
+<h2 align="center"> 👨🏽‍💻 Top Language </h2>
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrrayhan246&theme=slateorange)
+
+</div>
+
+</td></tr></table>
+&nbsp;
+&nbsp;
+
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mrrayhan246&theme=radical&no-frame=false&no-bg=true&margin-w=15&column=6" alt="GitHub Trophies" width="100%"/>
