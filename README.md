@@ -116,10 +116,7 @@
 &nbsp;
 &nbsp;
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrrayhan246&theme=radical&no-frame=false&no-bg=true&margin-w=15&column=6" alt="GitHub Trophies" width="100%"/>
-</div>
+
 
 ---
 
