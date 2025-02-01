@@ -17,7 +17,7 @@
 
 <!-- Visitor Badge -->
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mrrayhan246.mrrayhan246&right_color=darkred" alt="Visitor Badge" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=mrrayhan246.mrrayhan246" alt="Visitor Badge" />
 </div>
 
 <h1 width="100%" align="center">
