@@ -17,7 +17,7 @@
 
 <!-- Visitor Badge -->
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=mrrayhan246.mrrayhan246" alt="Visitor Badge" />
+  <img src="https://visitcount.itsvg.in/api?id=mrrayhan246&icon=0&color=0" alt="Visitor Badge" />
 </div>
 
 <h1 width="100%" align="center">
@@ -97,4 +97,21 @@
 
 
 ### 💡 Let's Create Something Amazing Together!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
