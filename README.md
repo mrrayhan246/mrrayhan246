@@ -107,6 +107,15 @@
 &nbsp;
 &nbsp;
 
+
+<!-- Summery Card  -->
+<h2 align="center">📊 Commit Charts & Insights</h2>
+
+<div class='container'>
+<img style="height: auto; width: 100%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrrayhan246&theme=slateorange&card_width=1200" /></div>
+&nbsp;
+&nbsp;
+
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mrrayhan246&theme=radical&no-frame=false&no-bg=true&margin-w=15&column=6" alt="GitHub Trophies" width="100%"/>
