@@ -123,18 +123,14 @@
 
 ---
 
-### 🔝 Top Contributed Repo
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mrrayhan246&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="80%"/>
+<h2 align="center">🏆 Github Trophy 🏆</h2>
+
+<p align="center"> <a href="https://www.foritbd.com/"><img src="https://github-profile-trophy.vercel.app/?username=mrrayhan246&theme=juicyfresh" alt="Raihanul Islam" /></a> </p>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=mrrayhan246.mrrayhan246" alt="Visitor Count"/>
-</div>
-
----
 
 
 
