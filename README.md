@@ -17,7 +17,7 @@
 
 <!-- Visitor Badge -->
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mrrayhan246&icon=0&color=0" alt="Visitor Badge" />
+  ![](https://komarev.com/ghpvc/?mrrayhan246=mrrayhan246&color=blueviolet)
 </div>
 
 <h1 width="100%" align="center">
