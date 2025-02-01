@@ -40,13 +40,6 @@
 
 ---
 
-### 🌐 Connect with Me:
-- 🌟 [Portfolio](https://foritbd.com/)
-- 💼 [LinkedIn](https://linkedin.com/in/mrrayhan246)  
-- 🐦 [Facebook](https://facebook.com/mrrayhan24)  
-- 📧 [Email](mailto:mrrayhan246@gmail.com)  
-
----
 
 ### 🛠️ Skills and Tech Stack:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
