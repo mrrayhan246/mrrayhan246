@@ -17,7 +17,7 @@
 
 <!-- Visitor Badge -->
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=mrrayhan246&color=blueviolet)
+  ![](https://komarev.com/ghpvc/?username=mrrayhan246&repo=mrrayhan246&color=blueviolet)
 </div>
 
 <h1 width="100%" align="center">
