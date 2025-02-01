@@ -64,7 +64,14 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
+---
 
+<!-- Git hub status  -->
+<h2 align="center">🔥 Streak Showcase</h2>
+<div align='center'>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mrrayhan246&theme=neon&hide_border=true&border_radius=10&card_width=503)](#)
+</div>
 
 ---
 
