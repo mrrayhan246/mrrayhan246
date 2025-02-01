@@ -1,5 +1,20 @@
 <img src="images/bg/CoverImage.jpg" alt="GitHub Banner" width="100%" />
 
+<!-- Social Links -->
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/mrrayhan246/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/mrrayhan246" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" />
+  </a>
+  <a href="https://www.facebook.com/mrrayhan24/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook" />
+  </a>
+
+</div>
+
 <h1 width="100%" align="center">
   <span width="100%">
     <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D2D3&width=800&lines=🌍+Hello+World!+I'm+Md.+Raihanul+Islam;A+Professional+Web+Developer+%F0%9F%9A%80;Crafting+Exceptional+Web+Experiences" alt="Typing Animation" />
