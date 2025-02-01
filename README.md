@@ -128,7 +128,12 @@
 
 ---
 
-
+# Your Recent GitHub Activity
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#1234](https://github.com/your_username/your_repository/issues/1234) in [your_username/your_repository](https://github.com/your_username/your_repository)
+2. 🎉 Merged PR [#1234](https://github.com/your_username/your_repository/pull/1234) in [your_username/your_repository](https://github.com/your_username/your_repository)
+3. 💪 Opened PR [#1234](https://github.com/your_username/your_repository/pull/1234) in [your_username/your_repository](https://github.com/your_username/your_repository)
+<!--END_SECTION:activity-->
 
 
 ### 💡 Let's Create Something Amazing Together!
