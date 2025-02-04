@@ -51,9 +51,13 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap_5-7952B3?logo=bootstrap&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=fff)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=333)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
 ![Vultr](https://img.shields.io/badge/-Vultr-007BFC?logo=vultr&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=fff)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?logo=adobe-photoshop&logoColor=fff)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?logo=adobe-illustrator&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
 
 ---
 
