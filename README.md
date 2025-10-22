@@ -21,9 +21,8 @@
 </div>
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79418&center=true&vCenter=true&width=435&lines=Hellooo+there+%F0%9F%91%8B%E2%9C%A8;Md.+Raihanul+Islam+Rayhan" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F79418&center=true&vCenter=true&width=435&lines=Hellooo+there+%F0%9F%91%8B%E2%9C%A8;Md.+Raihanul+Islam+Rayhan" alt="Typing SVG" /></a>
 </h1>
-<h1 width="100%" align="center"> Md. Raihanul Islam Rayhan </h1>
 ---
 
 ### A Professional Web Developer 🚀  
