@@ -21,7 +21,60 @@
 </div>
 
 
-<h1 width="100%" align="center"> Md. Raihanul Islam Rayhan </h1>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="1200" height="140">
+<defs>
+<linearGradient id="g" x1="0" x2="1">
+<stop offset="0%" stop-color="#00f" />
+<stop offset="50%" stop-color="#8a2be2" />
+<stop offset="100%" stop-color="#ff0066" />
+</linearGradient>
+<!-- animated mask for a smooth wave effect -->
+<mask id="m">
+<rect width="100%" height="100%" fill="white"/>
+<g fill="black">
+<rect x="0" y="0" width="1200" height="140" opacity="0.0" />
+</g>
+</mask>
+<style><![CDATA[
+@keyframes floaty {
+0% { transform: translateY(0px) rotate(0.0deg); }
+50% { transform: translateY(-6px) rotate(-0.4deg); }
+100% { transform: translateY(0px) rotate(0.0deg); }
+}
+]]></style>
+</defs>
+
+
+<rect width="100%" height="100%" fill="#0f172a" />
+
+
+<!-- background animated circles -->
+<g opacity="0.12" transform="translate(40,20)">
+<circle r="90" cx="200" cy="70" fill="#60a5fa">
+<animate attributeName="r" values="80;95;80" dur="6s" repeatCount="indefinite"/>
+</circle>
+<circle r="60" cx="960" cy="60" fill="#a78bfa">
+<animate attributeName="r" values="55;70;55" dur="5s" repeatCount="indefinite"/>
+</circle>
+</g>
+
+
+<!-- main text with gradient fill -->
+<g mask="url(#m)">
+<text x="50%" y="52%" text-anchor="middle" font-family="Inter, Arial, Helvetica, sans-serif" font-weight="700" font-size="46" fill="url(#g)" style="letter-spacing:1.8px">
+Md. Raihanul Islam Rayhan
+</text>
+
+
+<!-- subtle floating subtitle -->
+<text x="50%" y="86%" text-anchor="middle" font-family="Inter, Arial, Helvetica, sans-serif" font-weight="500" font-size="16" fill="#cbd5e1" style="animation: floaty 4s ease-in-out infinite;">
+Software Engineer • Django • Frontend • Open Source
+</text>
+</g>
+
+
+</svg>
 ---
 
 ### A Professional Web Developer 🚀  
