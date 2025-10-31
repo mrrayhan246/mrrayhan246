@@ -71,7 +71,7 @@
 <h2 align="center">🔥 Streak Showcase</h2>
 <div align='center'>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mrrayhan246&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=900" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mrrayhan246&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=800" alt="GitHub Streak" /></a>
 </div>
 
 ---
