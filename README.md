@@ -23,27 +23,28 @@
   <br><br>
 </div>
 
-<table width="100%" style="border: none;">
-  <tr>
-    <td width="55%" valign="middle" style="border: none;">
-      <h2 align="center">🚀 About Me</h2>
-      <p align="center">
-        I am a <b>Full-Stack Developer</b> based in 📍 <b>Rangpur, Bangladesh</b>. I specialize in crafting high-performance web applications using <b>Django</b> and the <b>MERN Stack</b>. I have a deep passion for <b>Glassmorphism</b> UI designs, complex database architecture, and smooth animations.
-      </p>
-      <br>
-      <ul>
-        <li>🔭 <b>Currently working on:</b> <a href="https://foritbd.com/">For IT BD</a></li>
-        <li>🌱 <b>Deep Diving into:</b> Advanced Python & MERN Architecture</li>
-        <li>⚡ <b>Core Focus:</b> Database Efficiency & Interactive UI (Alpine.js/Tailwind)</li>
-        <li>🎨 <b>Creative Side:</b> Graphic Design with Photoshop & Illustrator</li>
-      </ul>
-    </td>
-    <td width="45%" valign="middle" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrayhan246&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=1a1b26" width="90%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<h2 align="center">🚀 About Me</h2>
 
+<div align="center">
+  <p>
+    I am a <b>Full-Stack Developer</b> based in 📍 <b>Rangpur, Bangladesh</b>. I specialize in crafting high-performance web applications using <b>Django</b> and the <b>MERN Stack</b>. I have a deep passion for <b>Glassmorphism</b> UI designs, complex database architecture, and smooth animations.
+  </p>
+</div>
+
+<div>
+  <ul>
+    <li>🔭 <b>Currently working on:</b> <a href="https://foritbd.com/">For IT BD</a></li>
+    <li>🌱 <b>Deep Diving into:</b> Advanced Python & MERN Architecture</li>
+    <li>⚡ <b>Core Focus:</b> Database Efficiency & Interactive UI (Alpine.js/Tailwind)</li>
+    <li>🎨 <b>Creative Side:</b> Graphic Design with Photoshop & Illustrator</li>
+  </ul>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrayhan246&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=1a1b26" alt="Top Languages" />
+</div>
 <br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
 <br>
