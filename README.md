@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=250&section=header&text=Md.%20Raihanul%20Islam%20Rayhan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Django%20Expert%20%7C%20MERN%20Enthusiast&descAlignY=55&descSize=20" width="100%" alt="Header" />
 </div>
@@ -108,7 +109,14 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrrayhan246/mrrayhan246/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/mrrayhan246/mrrayhan246/output/github-snake.svg" width="100%" />
   </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  </picture>
 </div>
+
+
 
 <br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
@@ -133,3 +141,17 @@
   <a href="https://www.foritbd.com/">Website</a> | 
   <a href="https://www.linkedin.com/in/mrrayhan246/">Hire Me</a>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
