@@ -45,6 +45,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrayhan246&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=1a1b26&card_width=800" width="100%" alt="Top Languages" />
 </div>
+
+
 <br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
 <br>
@@ -114,7 +116,9 @@
 
 <h2 align="center">🏆 Achievement Showcase</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrrayhan246&theme=dracula&column=7&margin-w=15&no-bg=true" width="100%" alt="Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mrrayhan246&theme=tokyonight&column=7&margin-w=15&no-bg=true&no-frame=true" width="100%" alt="Trophies" />
+  </a>
 </div>
 
 <br><br>
