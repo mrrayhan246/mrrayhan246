@@ -43,7 +43,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrayhan246&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=1a1b26" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrayhan246&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=1a1b26&card_width=800" width="100%" alt="Top Languages" />
 </div>
 <br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
