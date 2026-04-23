@@ -86,13 +86,16 @@
 
 <h2 align="center">📊 Performance Metrics</h2>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mrrayhan246&theme=tokyonight&hide_border=true&background=1a1b26&stroke=8b5cf6&ring=3b82f6" width="100%" alt="GitHub Streak" />
-  
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=mrrayhan246&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&rank_icon=github&width=800" width="100%" alt="GitHub Stats" />
-</div>
+<table width="100%" style="border: none;">
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=mrrayhan246&theme=tokyonight&hide_border=true&background=1a1b26&stroke=8b5cf6&ring=3b82f6" alt="GitHub Streak" width="95%" />
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=mrrayhan246&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&rank_icon=github" alt="GitHub Stats" width="95%" />
+    </td>
+  </tr>
+</table>
 
 <br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
