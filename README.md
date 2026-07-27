@@ -1,152 +1,127 @@
-
+<!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=250&section=header&text=Md.%20Raihanul%20Islam%20Rayhan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Django%20Expert%20%7C%20MERN%20Enthusiast&descAlignY=55&descSize=20" width="100%" alt="Header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=250&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Rayhan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Bangladesh&descAlignY=55&descAlign=50" alt="Banner" width="100%" />
 </div>
 
+<!-- TYPING ANIMATION SUBHEADER -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/mrrayhan246/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/mrrayhan246" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.facebook.com/mrrayhan24/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+    <a href="https://github.com/mrrayhan246">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+Developer;Django+Expert;IT+Expert" alt="Typing SVG" />
+    </a>
 </div>
 
+<!-- SOCIAL BADGES & PROFILE VIEWS -->
 <div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=mrrayhan246&repo=mrrayhan246&color=8b5cf6&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Badge"/>
-  <br><br>
-</div>
-
-<h2 align="center">🚀 About Me</h2>
-
-<div align="center">
-  <p>
-    I am a <b>Full-Stack Developer</b> based in 📍 <b>Rangpur, Bangladesh</b>. I specialize in crafting high-performance web applications using <b>Django</b> and the <b>MERN Stack</b>. I have a deep passion for <b>Glassmorphism</b> UI designs, complex database architecture, and smooth animations.
-  </p>
-</div>
-
-<div>
-  <ul>
-    <li>🔭 <b>Currently working on:</b> <a href="https://foritbd.com/">For IT BD</a></li>
-    <li>🌱 <b>Deep Diving into:</b> Advanced Python & MERN Architecture</li>
-    <li>⚡ <b>Core Focus:</b> Database Efficiency & Interactive UI (Alpine.js/Tailwind)</li>
-    <li>🎨 <b>Creative Side:</b> Graphic Design with Photoshop & Illustrator</li>
-  </ul>
+    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Placeholder" /></a>
+    <a href="https://linkedin.com/in/your-profile-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Placeholder" /></a>
+    <a href="https://facebook.com/your-profile-link"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Placeholder" /></a>
+    <a href="https://github.com/mrrayhan246"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <br><br>
+    <img src="https://komarev.com/ghpvc/?username=mrrayhan246&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrayhan246&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=1a1b26&card_width=800" width="100%" alt="Top Languages" />
-</div>
+---
 
+<!-- ABOUT ME SECTION -->
+## 🚀 What I Do
 
-<br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
-<br>
+As a **Senior Software Engineer** and **IT Expert** based in Bangladesh, I specialize in architecting robust, scalable backend systems and developing comprehensive full-stack applications. With a deep foundation in Python and Django, I bridge the gap between complex business logic and seamless user experiences. 
 
-<h2 align="center">🛠️ Tech Stack & Toolbox</h2>
+I excel in designing high-performance enterprise systems, managing server infrastructure, and delivering production-ready applications for international standards.
 
-<div align="center">
-  <br>
-  <b>Frontend</b><br><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" />
-  
-  <br><br>
-  <b>Backend & Database</b><br><br>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  
-  <br><br>
-  <b>Tools & Cloud</b><br><br>
-  <img src="https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-</div>
+<!-- EXPERIENCE SECTION -->
+## 💼 Experience
 
-<br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
-<br>
+- **Executive** @ *Kaizer Knitwears Ltd.*
+- **Full Stack Developer** @ *FOR IT*
 
-<h2 align="center">📊 Performance Metrics</h2>
+### Core Expertise
+- **Development:** Full Stack Developer | Backend Developer | REST API Developer
+- **Ecosystem:** Python Developer | Django Developer | ERP & HRM System Developer
+- **Infrastructure:** Database Designer | Linux Server Administrator | VPS Administrator | IT Expert
 
-<table width="100%" style="border: none;">
+---
+
+<!-- TECH TOOLBOX SECTION -->
+## ⚡ Tech Toolbox
+
+### Frontend
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+
+### Backend
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> 
+
+### Database
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+### Tools & Cloud
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" /> <img src="https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white" alt="Vultr VPS" />
+
+---
+
+<!-- CURRENT FOCUS & LEARNING SECTION -->
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=mrrayhan246&theme=tokyonight&hide_border=true&background=1a1b26&stroke=8b5cf6&ring=3b82f6" alt="GitHub Streak" width="95%" />
+    <td width="50%" valign="top" style="border: none;">
+      <h2>🎯 Current Focus</h2>
+      <ul>
+        <li>🏗️ Enterprise ERP Systems</li>
+        <li>👥 HRM Management Systems</li>
+        <li>🕒 Attendance & Payroll Systems</li>
+        <li>📦 Inventory Management Systems</li>
+        <li>🔌 REST API Architecture</li>
+        <li>🕸️ Advanced Django Projects</li>
+        <li>🗃️ PostgreSQL Database Design</li>
+      </ul>
     </td>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=mrrayhan246&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&rank_icon=github" alt="GitHub Stats" width="95%" />
+    <td width="50%" valign="top" style="border: none;">
+      <h2>🌱 Currently Learning</h2>
+      <ul>
+        <li>🐳 Docker & Kubernetes</li>
+        <li>🧩 Microservices Architecture</li>
+        <li>♾️ DevOps & CI/CD Pipelines</li>
+        <li>🤖 AI Integration</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-<br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
-<br>
+---
 
-<h2 align="center">🐍 The Code Journey</h2>
+<!-- GITHUB ANALYTICS SECTION -->
+## 📈 GitHub Analytics
 
+<!-- GITHUB TROPHIES -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  </picture>
+    <a href="https://github.com/mrrayhan246">
+        <img src="https://github-profile-trophy.vercel.app/?username=mrrayhan246&theme=radical&no-frame=true&row=1&margin-w=15" alt="GitHub Trophies" />
+    </a>
 </div>
-
-
-
-<br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
 <br>
 
-<h2 align="center">🏆 Achievement Showcase</h2>
+<!-- STATS AND TOP LANGUAGES (Using Tokyonight Theme for Neon/Dark UI) -->
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mrrayhan246&theme=tokyonight&column=7&margin-w=15&no-bg=true&no-frame=true" width="100%" alt="Trophies" />
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=mrrayhan246&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrayhan246&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" alt="Top Languages" />
+</div>
+<br>
+
+<!-- GITHUB STREAK -->
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrrayhan246&theme=tokyonight&hide_border=true&stroke=0000" alt="GitHub Streak" />
+</div>
+<br>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrrayhan246&theme=tokyonight&hide_border=true&color=38bdf8&line=8b5cf6&point=ffffff" alt="GitHub Activity Graph" width="100%" />
 </div>
 
-<br><br>
+<br>
 
+<!-- FOOTER ANIMATION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:3b82f6&height=120&section=footer&text=Let's%20Build%20The%20Future%20Together&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%" alt="Footer" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=100:8b5cf6,0:3b82f6&height=150&section=footer" alt="Footer" width="100%" />
 </div>
-
-<div align="center">
-  <b>Thanks for visiting!</b> | 
-  <a href="https://github.com/mrrayhan246?tab=repositories">My Projects</a> | 
-  <a href="https://www.foritbd.com/">Website</a> | 
-  <a href="https://www.linkedin.com/in/mrrayhan246/">Hire Me</a>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
