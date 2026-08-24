@@ -1,23 +1,23 @@
 <!-- HEADER BANNER -->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=250&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Rayhan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Bangladesh&descAlignY=55&descAlign=50" alt="Banner" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=250&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Rayhan&fontSize=50&fontColor=00F2FE&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Bangladesh&descAlignY=55&descAlign=50&descSize=20" alt="Banner" width="100%" />
 </div>
 
 <!-- TYPING ANIMATION SUBHEADER -->
 <div align="center">
     <a href="https://github.com/mrrayhan246">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+Developer;Django+Expert;IT+Expert" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+Developer;Django+Expert;IT+Expert" alt="Typing SVG" />
     </a>
 </div>
 
-<!-- SOCIAL BADGES & PROFILE VIEWS -->
+<!-- SOCIAL BADGES (Dark Neon Theme) -->
 <div align="center">
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Placeholder" /></a>
-    <a href="https://linkedin.com/in/your-profile-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Placeholder" /></a>
-    <a href="https://facebook.com/your-profile-link"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Placeholder" /></a>
-    <a href="https://github.com/mrrayhan246"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F2FE" alt="Email" /></a>
+    <a href="https://linkedin.com/in/your-profile-link"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F2FE" alt="LinkedIn" /></a>
+    <a href="https://facebook.com/your-profile-link"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=00F2FE" alt="Facebook" /></a>
+    <a href="https://github.com/mrrayhan246"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F2FE" alt="GitHub" /></a>
     <br><br>
-    <img src="https://komarev.com/ghpvc/?username=mrrayhan246&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=mrrayhan246&label=Profile%20Views&color=0D1117&style=for-the-badge&labelColor=161B22" alt="Profile Views" />
 </div>
 
 <br>
@@ -27,57 +27,44 @@
 <!-- ABOUT ME SECTION -->
 ## 🚀 What I Do
 
-As a **Senior Software Engineer** and **IT Expert** based in Bangladesh, I specialize in architecting robust, scalable backend systems and developing comprehensive full-stack applications. With a deep foundation in Python and Django, I bridge the gap between complex business logic and seamless user experiences. 
+As a **Senior Software Engineer** and **IT Expert** based in Bangladesh, I specialize in architecting robust, scalable backend systems and developing comprehensive full-stack applications. With a deep foundation in **Python** and **Django**, I bridge the gap between complex business logic and seamless user experiences. 
 
 I excel in designing high-performance enterprise systems, managing server infrastructure, and delivering production-ready applications for international standards.
 
-<!-- EXPERIENCE SECTION -->
-## 💼 Experience
-
+### 💼 Experience
 - **Executive** @ *Kaizer Knitwears Ltd.*
 - **Full Stack Developer** @ *FOR IT*
 
-### Core Expertise
-- **Development:** Full Stack Developer | Backend Developer | REST API Developer
-- **Ecosystem:** Python Developer | Django Developer | ERP & HRM System Developer
-- **Infrastructure:** Database Designer | Linux Server Administrator | VPS Administrator | IT Expert
-
 ---
 
-<!-- TECH TOOLBOX SECTION -->
+<!-- TECH TOOLBOX SECTION (Using Animated Skill Icons) -->
 ## ⚡ Tech Toolbox
 
-### Frontend
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-
-### Backend
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> 
-
-### Database
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-
-### Tools & Cloud
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" /> <img src="https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white" alt="Vultr VPS" />
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,js,html,css,bootstrap,tailwind,nextjs&perline=8" alt="Frontend and Backend" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,vscode,linux,docker,kubernetes&perline=8" alt="Database and Cloud" />
+  </a>
+</div>
 
 ---
 
 <!-- CURRENT FOCUS & LEARNING SECTION -->
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+<table align="center" width="100%" style="border-collapse: collapse; border: none; background-color: transparent;">
   <tr>
     <td width="50%" valign="top" style="border: none;">
-      <h2>🎯 Current Focus</h2>
+      <h3 align="center">🎯 Current Focus</h3>
       <ul>
         <li>🏗️ Enterprise ERP Systems</li>
-        <li>👥 HRM Management Systems</li>
-        <li>🕒 Attendance & Payroll Systems</li>
-        <li>📦 Inventory Management Systems</li>
+        <li>👥 HRM & Payroll Systems</li>
+        <li>📦 Inventory Management</li>
         <li>🔌 REST API Architecture</li>
-        <li>🕸️ Advanced Django Projects</li>
         <li>🗃️ PostgreSQL Database Design</li>
       </ul>
     </td>
     <td width="50%" valign="top" style="border: none;">
-      <h2>🌱 Currently Learning</h2>
+      <h3 align="center">🌱 Currently Learning</h3>
       <ul>
         <li>🐳 Docker & Kubernetes</li>
         <li>🧩 Microservices Architecture</li>
@@ -93,35 +80,39 @@ I excel in designing high-performance enterprise systems, managing server infras
 <!-- GITHUB ANALYTICS SECTION -->
 ## 📈 GitHub Analytics
 
-<!-- GITHUB TROPHIES -->
+<!-- GITHUB TROPHIES (Dark Theme) -->
 <div align="center">
     <a href="https://github.com/mrrayhan246">
-        <img src="https://github-profile-trophy.vercel.app/?username=mrrayhan246&theme=radical&no-frame=true&row=1&margin-w=15" alt="GitHub Trophies" />
+        <img src="https://github-profile-trophy.vercel.app/?username=mrrayhan246&theme=discord&no-frame=true&row=1&margin-w=15" alt="GitHub Trophies" />
     </a>
 </div>
 <br>
 
-<!-- STATS AND TOP LANGUAGES (Using Tokyonight Theme for Neon/Dark UI) -->
+<!-- STATS AND TOP LANGUAGES (Custom Dark Neon Theme) -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mrrayhan246&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrayhan246&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mrrayhan246&show_icons=true&bg_color=0D1117&title_color=00F2FE&text_color=C9D1D9&icon_color=00F2FE&border_color=21262D&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrayhan246&layout=compact&bg_color=0D1117&title_color=00F2FE&text_color=C9D1D9&border_color=21262D&hide_border=true" alt="Top Languages" />
 </div>
 <br>
 
 <!-- GITHUB STREAK -->
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrrayhan246&theme=tokyonight&hide_border=true&stroke=0000" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrrayhan246&background=0D1117&border=21262D&stroke=0000&ring=00F2FE&fire=00F2FE&currStreakNum=C9D1D9&currStreakLabel=00F2FE&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&hide_border=true" alt="GitHub Streak" />
 </div>
 <br>
 
-<!-- ACTIVITY GRAPH -->
+<!-- GITHUB CONTRIBUTION SNAKE ANIMATION -->
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrrayhan246&theme=tokyonight&hide_border=true&color=38bdf8&line=8b5cf6&point=ffffff" alt="GitHub Activity Graph" width="100%" />
+  <h3>🐍 My Contribution Graph</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrrayhan246/mrrayhan246/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrrayhan246/mrrayhan246/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mrrayhan246/mrrayhan246/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
-
 <br>
 
 <!-- FOOTER ANIMATION -->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=100:8b5cf6,0:3b82f6&height=150&section=footer" alt="Footer" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=100:0D1117,0:161B22&height=150&section=footer" alt="Footer" width="100%" />
 </div>
