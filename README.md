@@ -32,7 +32,7 @@ As a **Senior Software Engineer** and **IT Expert** based in Bangladesh, I speci
 I excel in designing high-performance enterprise systems, managing server infrastructure, and delivering production-ready applications for international standards.
 
 ### 💼 Experience
-- **Executive** @ *Kaizer Knitwears Ltd.*
+- **Executive (IT)** @ *Kaizer Knitwears Ltd.*
 - **Full Stack Developer** @ *FOR IT*
 
 ---
