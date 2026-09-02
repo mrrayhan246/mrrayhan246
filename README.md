@@ -1,118 +1,63 @@
-<!-- HEADER BANNER -->
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=250&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Rayhan&fontSize=50&fontColor=00F2FE&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Bangladesh&descAlignY=55&descAlign=50&descSize=20" alt="Banner" width="100%" />
-</div>
+<!-- ========================================================= -->
+<!--                    PROFILE HEADER                         -->
+<!-- ========================================================= -->
 
-<!-- TYPING ANIMATION SUBHEADER -->
 <div align="center">
-    <a href="https://github.com/mrrayhan246">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+Developer;Django+Expert;IT+Expert" alt="Typing SVG" />
-    </a>
-</div>
 
-<!-- SOCIAL BADGES (Dark Neon Theme) -->
-<div align="center">
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F2FE" alt="Email" /></a>
-    <a href="https://linkedin.com/in/your-profile-link"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F2FE" alt="LinkedIn" /></a>
-    <a href="https://facebook.com/your-profile-link"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=00F2FE" alt="Facebook" /></a>
-    <a href="https://github.com/mrrayhan246"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F2FE" alt="GitHub" /></a>
-    <br><br>
-    <img src="https://komarev.com/ghpvc/?username=mrrayhan246&label=Profile%20Views&color=0D1117&style=for-the-badge&labelColor=161B22" alt="Profile Views" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1220,50:111827,100:0F172A&text=RAYHAN&fontSize=72&fontColor=00E5FF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20FULL%20STACK%20DEVELOPER%20%E2%80%A2%20IT%20EXPERT&descSize=17&descAlignY=60&animation=fadeIn"/>
 
 <br>
 
----
+<a href="https://github.com/mrrayhan246">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=Building+Enterprise+Software+%F0%9F%9A%80;Python+%7C+Django+%7C+PostgreSQL;HRM+%7C+ERP+%7C+Payroll+Systems;Full+Stack+Web+Application+Architecture;IT+Infrastructure+%26+Automation" />
+</a>
 
-<!-- ABOUT ME SECTION -->
-## 🚀 What I Do
+<br>
 
-As a **Senior Software Engineer** and **IT Expert** based in Bangladesh, I specialize in architecting robust, scalable backend systems and developing comprehensive full-stack applications. With a deep foundation in **Python** and **Django**, I bridge the gap between complex business logic and seamless user experiences. 
+<a href="https://github.com/mrrayhan246">
+<img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+</a>
+<a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
+</a>
+<a href="https://www.linkedin.com/in/your-profile">
+<img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+</a>
+<a href="https://www.facebook.com/your-profile">
+<img src="https://img.shields.io/badge/Facebook-0B1220?style=for-the-badge&logo=facebook&logoColor=00E5FF"/>
+</a>
 
-I excel in designing high-performance enterprise systems, managing server infrastructure, and delivering production-ready applications for international standards.
+<br><br>
 
-### 💼 Experience
-- **Executive (IT)** @ *Kaizer Knitwears Ltd.*
-- **Full Stack Developer** @ *FOR IT*
+<img src="https://komarev.com/ghpvc/?username=mrrayhan246&label=PROFILE%20VIEWS&color=00E5FF&labelColor=0B1220&style=for-the-badge"/>
 
----
-
-<!-- TECH TOOLBOX SECTION (Using Animated Skill Icons) -->
-## ⚡ Tech Toolbox
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,js,html,css,bootstrap,tailwind,nextjs&perline=8" alt="Frontend and Backend" />
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,vscode,linux,docker,kubernetes&perline=8" alt="Database and Cloud" />
-  </a>
 </div>
 
 ---
 
-<!-- CURRENT FOCUS & LEARNING SECTION -->
-<table align="center" width="100%" style="border-collapse: collapse; border: none; background-color: transparent;">
-  <tr>
-    <td width="50%" valign="top" style="border: none;">
-      <h3 align="center">🎯 Current Focus</h3>
-      <ul>
-        <li>🏗️ Enterprise ERP Systems</li>
-        <li>👥 HRM & Payroll Systems</li>
-        <li>📦 Inventory Management</li>
-        <li>🔌 REST API Architecture</li>
-        <li>🗃️ PostgreSQL Database Design</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" style="border: none;">
-      <h3 align="center">🌱 Currently Learning</h3>
-      <ul>
-        <li>🐳 Docker & Kubernetes</li>
-        <li>🧩 Microservices Architecture</li>
-        <li>♾️ DevOps & CI/CD Pipelines</li>
-        <li>🤖 AI Integration</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+# 👋 Hello, I'm Rayhan
 
----
+> **Software Engineer focused on building reliable, scalable and business-driven software systems.**
 
-<!-- GITHUB ANALYTICS SECTION -->
-## 📈 GitHub Analytics
+I'm a **Full Stack Developer & IT Expert** specializing in **Python, Django, PostgreSQL and modern web technologies**.
 
-<!-- GITHUB TROPHIES (Dark Theme) -->
-<div align="center">
-    <a href="https://github.com/mrrayhan246">
-        <img src="https://github-profile-trophy.vercel.app/?username=mrrayhan246&theme=discord&no-frame=true&row=1&margin-w=15" alt="GitHub Trophies" />
-    </a>
-</div>
-<br>
+My work focuses on transforming real-world business requirements into production-ready software — particularly **HRM, Payroll, ERP, Inventory, Attendance and enterprise management systems**.
 
-<!-- STATS AND TOP LANGUAGES (Custom Dark Neon Theme) -->
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mrrayhan246&show_icons=true&bg_color=0D1117&title_color=00F2FE&text_color=C9D1D9&icon_color=00F2FE&border_color=21262D&hide_border=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrayhan246&layout=compact&bg_color=0D1117&title_color=00F2FE&text_color=C9D1D9&border_color=21262D&hide_border=true" alt="Top Languages" />
-</div>
-<br>
+I enjoy working across the complete technology lifecycle:
 
-<!-- GITHUB STREAK -->
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrrayhan246&background=0D1117&border=21262D&stroke=0000&ring=00F2FE&fire=00F2FE&currStreakNum=C9D1D9&currStreakLabel=00F2FE&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&hide_border=true" alt="GitHub Streak" />
-</div>
-<br>
-
-<!-- GITHUB CONTRIBUTION SNAKE ANIMATION -->
-<div align="center">
-  <h3>🐍 My Contribution Graph</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrrayhan246/mrrayhan246/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrrayhan246/mrrayhan246/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mrrayhan246/mrrayhan246/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-<br>
-
-<!-- FOOTER ANIMATION -->
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=100:0D1117,0:161B22&height=150&section=footer" alt="Footer" width="100%" />
-</div>
+```text
+Business Requirement
+        ↓
+System Architecture
+        ↓
+Database Design
+        ↓
+Backend Development
+        ↓
+Frontend Experience
+        ↓
+API Integration
+        ↓
+Deployment & Infrastructure
+        ↓
+Production System
