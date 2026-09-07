@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="57032597-9a73-4d7e-a62f-a35420bca91c.png" alt="MD RAYHAN - Full Stack Developer" width="100%">
+  <img src="images/57032597-9a73-4d7e-a62f-a35420bca91c.png" alt="MD RAYHAN - Full Stack Developer" width="100%">
 </div>
 
 <h3 align="center">Building scalable web applications and digital solutions for a better tomorrow.</h3>
