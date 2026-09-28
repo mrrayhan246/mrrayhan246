@@ -62,7 +62,7 @@ I bridge the gap between robust system infrastructure and seamless web applicati
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats-nine-bay-cwwik9z0wn.vercel.app/api/top-langs/?username=mrrayhan246&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" height="195" width="80%" alt="Top Languages" />
+  <img src="https://github-readme-stats-nine-bay-cwwik9z0wn.vercel.app/api/top-langs/?username=mrrayhan246&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&card_width=930" height="195" alt="Top Languages" />
 </div>
 
 <br>
