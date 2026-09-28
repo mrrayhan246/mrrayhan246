@@ -55,9 +55,7 @@ I am a highly motivated IT professional and Full-Stack Developer with over 5 yea
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrrayhan246&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&v=1" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-mrrayhan246.vercel.app/api?username=mrrayhan246&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" width="48%" alt="GitHub Stats" />
-  <img src="https://YOUR-VERCEL-DOMAIN.vercel.app/api?username=mrrayhan246&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-nine-bay-cwwik9z0wn.vercel.app/api?username=mrrayhan246&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrrayhan246&theme=tokyonight&hide_border=true&background=0f172a" width="48%" alt="GitHub Streak" />
 </div>
 
