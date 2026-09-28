@@ -56,10 +56,10 @@ I bridge the gap between robust system infrastructure and seamless web applicati
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-nine-bay-cwwik9z0wn.vercel.app/api?username=mrrayhan246&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrrayhan246&theme=tokyonight&hide_border=true&background=0f172a" height="195" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-nine-bay-cwwik9z0wn.vercel.app/api?username=mrrayhan246&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrrayhan246&theme=tokyonight&hide_border=true&background=0f172a" height="170" alt="GitHub Streak" />
+</p>
 <br>
 <div align="center">
   <img src="https://github-readme-stats-nine-bay-cwwik9z0wn.vercel.app/api/top-langs/?username=mrrayhan246&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&card_width=930" height="195" alt="Top Languages" />
