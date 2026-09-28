@@ -62,8 +62,7 @@ I am a highly motivated IT professional and Full-Stack Developer with over 5 yea
 <br>
 
 <div align="center">
-  <img src="https://YOUR-VERCEL-DOMAIN.vercel.app/api/top-langs/?username=mrrayhan246&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" width="48%" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrayhan246&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-nine-bay-cwwik9z0wn.vercel.app/api/top-langs/?username=mrrayhan246&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" width="48%" alt="Top Languages" />
 </div>
 
 ---
