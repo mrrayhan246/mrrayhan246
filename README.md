@@ -107,5 +107,6 @@ I bridge the gap between robust system infrastructure and seamless web applicati
 
 <div align="center">
   <i>"Code. Build. Innovate."</i>
+    <i>"Code. Build. Innovate."</i>
 </div>
 
